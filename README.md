@@ -1,6 +1,6 @@
 # Red Hat Ansible Automation Platform (AAP)
 
-https://github.com/pslucas0212/UsefulRedHatLinks
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ### Overview
 - [Red Hat AAP YouTube Channel](https://www.youtube.com/ansibleautomation)
