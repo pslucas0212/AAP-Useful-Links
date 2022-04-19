@@ -12,6 +12,7 @@
 
 ### Installation
 - [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
+- [CHAPTER 5. CONFIGURING PROXY SUPPORT FOR RED HAT ANSIBLE AUTOMATION PLATFORM](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html/red_hat_ansible_automation_platform_installation_guide/assembly-configuring-proxy-support) 
 
 ### Provisioining
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
