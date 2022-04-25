@@ -20,3 +20,6 @@
 ### Red Hat AAP Cycle and Subscription
 - [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower)
 - [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
+
+### Security
+- [Configuring AWX (or Ansible Tower) to use LDAP authentication and Active Directory](https://hailsatan.xyz/blog/posts/configuring-awx-or-ansible-tower-to-use-ldap-authentication/)  - Note: this is not red hat documentation, but still it is a useful article.
