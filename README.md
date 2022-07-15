@@ -23,3 +23,9 @@
 
 ### Security
 - [Configuring AWX (or Ansible Tower) to use LDAP authentication and Active Directory](https://hailsatan.xyz/blog/posts/configuring-awx-or-ansible-tower-to-use-ldap-authentication/)  - Note: this is not red hat documentation, but still it is a useful article.
+
+### Ansible Support in RHEL
+- [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
+- [Scope of support for the Ansible Core package included in the RHEL 9 and RHEL 8.6 and later AppStream repositories](https://access.redhat.com/articles/6325611)
+- [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
+- [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
