@@ -29,3 +29,6 @@
 - [Scope of support for the Ansible Core package included in the RHEL 9 and RHEL 8.6 and later AppStream repositories](https://access.redhat.com/articles/6325611)
 - [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
 - [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
+
+### AAP Infrastructure
+- [Disaster Recovery for the Ansible Automation Platform](https://access.redhat.com/articles/6967148)
