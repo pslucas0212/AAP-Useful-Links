@@ -32,3 +32,4 @@
 
 ### AAP Infrastructure
 - [Disaster Recovery for the Ansible Automation Platform](https://access.redhat.com/articles/6967148)
+- -[Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social)
