@@ -31,6 +31,9 @@
 - [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
 - [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
 
+### Ansible and Satellite
+- [Scope of Support for Ansible Components included with Red Hat Satellite 6](https://access.redhat.com/articles/3616041)
+
 ### AAP Infrastructure
 - [Disaster Recovery for the Ansible Automation Platform](https://access.redhat.com/articles/6967148)
 - -[Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social)
