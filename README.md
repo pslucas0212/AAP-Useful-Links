@@ -11,6 +11,7 @@
 - [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
 - [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
 - [What Level of Ansible Automation Support is Included with an Ansible Tower Subscription?](https://access.redhat.com/articles/3076221)
+- [Ansible Basics: Automation Technical Overview](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview?section=Overview) - No charge introductory training.
 
 ### Installation
 - [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
@@ -38,4 +39,4 @@
 
 ### AAP Infrastructure
 - [Disaster Recovery for the Ansible Automation Platform](https://access.redhat.com/articles/6967148)
-- -[Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social)
+- [Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social)
