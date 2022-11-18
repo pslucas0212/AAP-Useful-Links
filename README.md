@@ -44,4 +44,5 @@
 ### Red Hat Communites of Practice - AAP
 - [Red Hat Communities of Practice Controller Configuration Collection](https://github.com/redhat-cop/controller_configuration)
 - [Osbuild Composer Ansible Collection](https://github.com/redhat-cop/infra.osbuild)
-- [Ansible Agnostic Deployer]()
+- [Ansible Agnostic Deployer](https://github.com/redhat-cop/agnosticd)
+- [Red Hat Communities of Practice Ansible Automation Platform Utilities Collection](https://github.com/redhat-cop/aap_utilities)
