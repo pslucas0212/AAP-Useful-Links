@@ -46,3 +46,6 @@
 - [Osbuild Composer Ansible Collection](https://github.com/redhat-cop/infra.osbuild)
 - [Ansible Agnostic Deployer](https://github.com/redhat-cop/agnosticd)
 - [Red Hat Communities of Practice Ansible Automation Platform Utilities Collection](https://github.com/redhat-cop/aap_utilities)
+
+### Misc.
+- [APP CLI Setup Suggestion](https://github.com/pslucas0212/AAP-Setup)
