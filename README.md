@@ -26,6 +26,7 @@
 
 ### Security
 - [Configuring AWX (or Ansible Tower) to use LDAP authentication and Active Directory](https://hailsatan.xyz/blog/posts/configuring-awx-or-ansible-tower-to-use-ldap-authentication/)  - Note: this is not red hat documentation, but still it is a useful article.
+- [How to use`SSH Keys` for Multiple Credentials In Ansible Tower?](https://access.redhat.com/solutions/3938741) - April 2021
 
 ### Ansible Support in RHEL
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101) - See **Note 1 and Note 2** in this document describes support and scope of use cases that Red Hat provides with Ansible Engine/Ansible Core installed on RHEL.
