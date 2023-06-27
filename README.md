@@ -3,6 +3,8 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ### Overview
+- [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
+- [What's new in Red Hat Ansible Automation Platform 2.4](https://www.youtube.com/watch?v=kiGofmvawOg) - YouTube Presentation
 - [Red Hat AAP YouTube Channel](https://www.youtube.com/ansibleautomation)
 - [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
 - [What's new: network automation using Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/whats-new-network-automation-using-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
