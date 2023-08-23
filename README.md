@@ -54,3 +54,4 @@
 
 ### Misc.
 - [APP CLI Setup Suggestion](https://github.com/pslucas0212/AAP-Setup)
+- [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform?sc_cid=7013a000003SjbwAAC)
