@@ -22,7 +22,7 @@
 ### Provisioining
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
 
-### Red Hat AAP Cycle and Subscription
+### Red Hat AAP Life Cycle and Subscription
 - [Red Hat Ansible Automation Platform Life Cycle](https://access.redhat.com/support/policy/updates/ansible-automation-platform)
 - [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower) - See above link for AAP lifecycle details.  AAP with Tower goes of out support 23 September 2023.  
 - [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
