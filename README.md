@@ -19,6 +19,10 @@
 - [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
 - [CHAPTER 5. CONFIGURING PROXY SUPPORT FOR RED HAT ANSIBLE AUTOMATION PLATFORM](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html/red_hat_ansible_automation_platform_installation_guide/assembly-configuring-proxy-support) 
 
+### Ansible Lightspeed
+- [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
+- For details regarding IBM watsonx Code Assistant see this - [Getting started with watsonx Code Assistant](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-getting-started)
+  
 ### Provisioining
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
 
