@@ -56,6 +56,10 @@
 - [Ansible Agnostic Deployer](https://github.com/redhat-cop/agnosticd)
 - [Red Hat Communities of Practice Ansible Automation Platform Utilities Collection](https://github.com/redhat-cop/aap_utilities)
 
+### Customer Execution Environment
+- [How to install the 'openshift-clients' package in Openshift Custom Execution Environment?](https://access.redhat.com/solutions/6985157)
+- [Using "ansible-builder" to create an Execution Environment with the "redhat.openshift" collection as a requirement fails](https://access.redhat.com/solutions/7024259)
+
 ### Misc.
 - [APP CLI Setup Suggestion](https://github.com/pslucas0212/AAP-Setup)
 - [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform?sc_cid=7013a000003SjbwAAC)
