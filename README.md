@@ -62,6 +62,9 @@
 
 ### Performance
 - [3 ways to optimize Ansible Automation Platform for scale and performance](https://www.redhat.com/sysadmin/optimize-ansible-automation-platform)
+
+### Workflows
+- [Ansible Automation Platform Workflows](https://www.youtube.com/watch?v=EKOWyc1F1AE) - YouTube AAP Workflow Overview
   
 ### Misc.
 - [APP CLI Setup Suggestion](https://github.com/pslucas0212/AAP-Setup)
