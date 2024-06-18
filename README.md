@@ -50,6 +50,11 @@
 - [Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social)
 - [4 good habits for building Ansible Automation Platform execution environments](https://www.redhat.com/architect/ansible-execution-environment-tips)
 
+### AAP Execution Environments
+- [4 good habits for building Ansible Automation Platform execution environments](https://www.redhat.com/architect/ansible-execution-environment-tips)
+- [Automate execution environment builds with Ansible Automation Platform](https://www.redhat.com/architect/ansible-execution-environment-automated-build)
+- [How to create execution environments using ansible-builder](https://developers.redhat.com/articles/2023/05/08/how-create-execution-environments-using-ansible-builder)
+  
 ### Red Hat Communites of Practice - AAP
 - [Red Hat Communities of Practice Controller Configuration Collection](https://github.com/redhat-cop/controller_configuration)
 - [Osbuild Composer Ansible Collection](https://github.com/redhat-cop/infra.osbuild)
