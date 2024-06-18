@@ -3,6 +3,7 @@
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
 ### Overview
+-[Red Hat Ansible Automation Platform pricing and deployment options](https://www.redhat.com/en/technologies/management/ansible/pricing)
 - [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
 - [What's new in Red Hat Ansible Automation Platform 2.4](https://www.youtube.com/watch?v=kiGofmvawOg) - YouTube Presentation
 - [Red Hat AAP YouTube Channel](https://www.youtube.com/ansibleautomation)
