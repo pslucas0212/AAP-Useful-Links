@@ -2,6 +2,8 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
+
 ### Overview
 - [Red Hat Ansible Automation Platform pricing and deployment options](https://www.redhat.com/en/technologies/management/ansible/pricing)
 - [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
