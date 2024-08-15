@@ -73,8 +73,11 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ### Workflows
 - [Ansible Automation Platform Workflows](https://www.youtube.com/watch?v=EKOWyc1F1AE) - YouTube AAP Workflow Overview
+
+### ITSM Integration
+- [Ansible Automation Platform and ServiceNow ITSM Integration](https://www.redhat.com/en/blog/ansible-automation-platform-and-servicenow-itsm-integration)
   
-### Misc.
+### Misc. 
 - [APP CLI Setup Suggestion](https://github.com/pslucas0212/AAP-Setup)
 - [How to deploy applications using Ansible Automation Platform](https://developers.redhat.com/articles/2023/07/20/how-deploy-applications-using-ansible-automation-platform?sc_cid=7013a000003SjbwAAC)
 - [Take Ansible validated content to the next level with Event-Driven Ansible](https://www.ansible.com/blog/ansible-validated-content-with-event-driven-ansible?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
