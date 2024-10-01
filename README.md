@@ -5,6 +5,7 @@
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
 ### Overview
+- [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - [Red Hat Ansible Automation Platform pricing and deployment options](https://www.redhat.com/en/technologies/management/ansible/pricing)
 - [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
 - [What's new in Red Hat Ansible Automation Platform 2.4](https://www.youtube.com/watch?v=kiGofmvawOg) - YouTube Presentation
