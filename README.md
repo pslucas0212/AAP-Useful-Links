@@ -22,7 +22,8 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 
 ### Installation
 - [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
-- [CHAPTER 5. CONFIGURING PROXY SUPPORT FOR RED HAT ANSIBLE AUTOMATION PLATFORM](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html/red_hat_ansible_automation_platform_installation_guide/assembly-configuring-proxy-support) 
+- [CHAPTER 5. CONFIGURING PROXY SUPPORT FOR RED HAT ANSIBLE AUTOMATION PLATFORM](https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html/red_hat_ansible_automation_platform_installation_guide/assembly-configuring-proxy-support)
+- [Red Hat Ansible Automation Platform Database Scope of Coverage](https://access.redhat.com/articles/4010491)
 
 ### Ansible Lightspeed
 - [Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant](https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant)
