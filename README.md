@@ -5,6 +5,7 @@
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
 ### Overview
+- [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
 - [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - [Red Hat Ansible Automation Platform pricing and deployment options](https://www.redhat.com/en/technologies/management/ansible/pricing)
